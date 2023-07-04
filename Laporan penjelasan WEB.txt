@@ -1,0 +1,33 @@
+
+Website ini merupakan Portofolio pribadi yang berisikan biodata pribadi dan informasi pelayanan kamar di Rumah Sakit Ari Canti tempat saya bekerja.
+Tujuan dibuatnya website ini untuk memenuhi Ujian Akhir Semester pada mata kuliah Front End Web Development
+
+
+Website ini terdiri dari beberapa bagian:
+
+1.Navbar: Bagian navigasi yang berisi logo "YanaWeb" dan tautan ke berbagai bagian website seperti "Home," "Gallery," "About," dan "Kontak."
+
+2.Informasi Website: Bagian yang menjelaskan tujuan dari website ini, yaitu menampilkan informasi tentang layanan rawat inap di "Rumah Sakit Ari Canti Ubud."
+
+3.Tabel rincian dan gambar dari berbagai jenis kamar rawat inap, seperti "President Suite," "Executive Gold," "VVIP," dan "Kelas 1,2,3."
+
+4.Galeri: Bagian yang menampilkan galeri gambar.
+
+5.Tentang: Bagian yang berisi "Biodata" dengan informasi pribadi tentang Yana, termasuk nama, tanggal lahir, alamat, email, dan nomor telepon.
+
+6.Pengalaman Kerja: Bagian yang menjelaskan pengalaman kerja Yana di "Ari Canti Hospital" sebagai IT Technical Support sejak tahun 2012.
+
+7.Kontak: Bagian yang menyediakan informasi kontak untuk Yana, termasuk tautan ke akun Facebook, WhatsApp, Instagram, Twitter, dan alamat.
+
+8.Footer: Bagian penutup dengan pemberitahuan hak cipta untuk tahun 2023.
+
+
+
+Website ini menggunakan elemen-elemen HTML, CSS untuk tampilan (diasumsikan terhubung ke "style.css"), dan berbagai gambar untuk menciptakan konten visual.
+
+
+
+
+
+
+
